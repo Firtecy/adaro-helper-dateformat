@@ -1,13 +1,13 @@
 {
-  "name": "adaro-helper-dateformat",
-  "version": "0.1.0",
+  "name": "adaro-helper-formatdate",
+  "version": "0.3.0",
   "description": "A simple adaro helper to format dates",
   "main": "index.js",
   "scripts": {
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/firtecy/adaro-helper-dateformat.git"
+    "url": "https://github.com/firtecy/adaro-helper-formatdate.git"
   },
   "keywords": [
     "krakenjs",
@@ -19,9 +19,9 @@
   "author": "David Laprell <david@laprell.eu>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/firtecy/adaro-helper-dateformat/issues"
+    "url": "https://github.com/firtecy/adaro-helper-formatdate/issues"
   },
-  "homepage": "https://github.com/firtecy/adaro-helper-dateformat#readme",
+  "homepage": "https://github.com/firtecy/adaro-helper-formatdate#readme",
   "dependencies": {
     "moment": "^2.14.1"
   }
