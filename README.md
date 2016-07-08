@@ -1,4 +1,4 @@
-Adaro @dateFormat Helper
+Adaro @formatDate Helper
 ========================
 
 Small adaro helper to format dates in your kraken js app
