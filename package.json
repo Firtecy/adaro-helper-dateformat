@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/firtecy/adaro-helper-formatdate.git"
+    "url": "https://github.com/dlaprell/adaro-helper-formatdate.git"
   },
   "keywords": [
     "krakenjs",
@@ -19,9 +19,9 @@
   "author": "David Laprell <david@laprell.eu>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/firtecy/adaro-helper-formatdate/issues"
+    "url": "https://github.com/dlaprell/adaro-helper-formatdate/issues"
   },
-  "homepage": "https://github.com/firtecy/adaro-helper-formatdate#readme",
+  "homepage": "https://github.com/dlaprell/adaro-helper-formatdate#readme",
   "dependencies": {
     "moment": "^2.14.1"
   }
