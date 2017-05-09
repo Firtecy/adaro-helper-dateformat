@@ -1,5 +1,7 @@
-Adaro @formatDate Helper
-========================
+Adaro @formatDate Helper [Deprecated]
+=====================================
+
+**Notice:** This module is no longer being maintained.
 
 Small adaro helper to format dates in your kraken js app
 
